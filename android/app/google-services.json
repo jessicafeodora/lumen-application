@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "118273982518",
+    "firebase_url": "https://smart-home-lamp-d68de-default-rtdb.firebaseio.com",
+    "project_id": "smart-home-lamp-d68de",
+    "storage_bucket": "smart-home-lamp-d68de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118273982518:android:c99324de94e08f9841d897",
+        "android_client_info": {
+          "package_name": "com.example.lumen_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn5MauTbTWzAqUBn8z64FqgEAQqr6QT68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118273982518:android:ccbc061fd11f9a2341d897",
+        "android_client_info": {
+          "package_name": "com.example.smart_home_lamp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn5MauTbTWzAqUBn8z64FqgEAQqr6QT68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
